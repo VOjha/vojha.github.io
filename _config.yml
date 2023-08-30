@@ -21,6 +21,7 @@ author: Vidushi Ojha
 
 navbar-links:
   CV: "cv.md"
+  Google Scholar: "https://scholar.google.com/citations?user=lbZM4zkAAAAJ"
 
 ################
 # --- Logo --- #
@@ -91,7 +92,7 @@ share-links-active:
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "MyWebsite.com"
+# url-pretty: "MyWebsite.com"
 
 # Excerpt word length - Truncate the excerpt of each post on the feed page to the specified number of words
 excerpt_length: 50
