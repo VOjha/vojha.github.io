@@ -20,7 +20,7 @@ author: Vidushi Ojha
 ###############################################
 
 navbar-links:
-  CV: "cv.md"
+  CV: "{{ site.url }}/assets/CV.pdf"
   Google Scholar: "https://scholar.google.com/citations?user=lbZM4zkAAAAJ"
 
 ################
