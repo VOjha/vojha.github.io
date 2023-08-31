@@ -10,10 +10,13 @@ Prior to grad school, I grew up in India and Switzerland. I did my undergrad at 
 
 # Peer-reviewed Publications
 
-E. M. Hastings, **V. Ojha**, B. V. Austriaco, K. Karahalios, and B. P. Bailey, "Composing Team Compositions: An Examination of Instructors' Current Algorithmic Team Formation Practices," __2023  ACM Conference On Computer-Supported Cooperative Work And Social Computing (CSCW)__, 2023.
- 
-**V. Ojha**, C. Perdriau, B. Lagesse, and C. M. Lewis, "Computing Specializations: Perceptions of AI and Cybersecurity Among CS Students," __2023 ACM Technical Symposium on Computer Science Education (SIGCSE)__, 2023.
-		
-**V. Ojha**, R. E. Platero, and B. B. Bullock, "Forming and fulfilling expectations: Perspectives of underrepresented computer science doctoral students," __2022 Collaborative Network for Engineering \& Computing Diversity (CoNECD)__, 2022.
+#### Composing Team Compositions: An Examination of Instructors' Current Algorithmic Team Formation Practices (CSCW 2023)
 
-K. Isenegger, Y. Birhane, **V. Ojha**, C. Coxe, and C. M. Lewis, "Understanding and expanding college students' perceptions of computing's social impact," __2021 Research on Equity and Sustained Participation in Engineering, Computing, and Technology (RESPECT)__, 2021.
+_Authors:_ E. M. Hastings, **V. Ojha**, B. V. Austriaco, K. Karahalios, and B. P. Bailey
+In this paper, we interviewed and surveyed faculty members about their uses of algorithmic team formation tools.
+ 
+**V. Ojha**, C. Perdriau, B. Lagesse, and C. M. Lewis, "Computing Specializations: Perceptions of AI and Cybersecurity Among CS Students," _2023 ACM Technical Symposium on Computer Science Education (SIGCSE)_, 2023.
+		
+**V. Ojha**, R. E. Platero, and B. B. Bullock, "Forming and fulfilling expectations: Perspectives of underrepresented computer science doctoral students," _2022 Collaborative Network for Engineering & Computing Diversity (CoNECD)_, 2022.
+
+K. Isenegger, Y. Birhane, **V. Ojha**, C. Coxe, and C. M. Lewis, "Understanding and expanding college students' perceptions of computing's social impact," _2021 Research on Equity and Sustained Participation in Engineering, Computing, and Technology (RESPECT)_, 2021.
